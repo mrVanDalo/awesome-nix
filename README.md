@@ -80,6 +80,7 @@
 * [Nix Review Tools Reports](https://malob.github.io/nix-review-tools-reports/) - Reports showing problematic dependencies (dependencies causing the most failed builds) for major Hydra jobsets.
 <!-- * [Nixpkgs Bot](https://git.maralorn.de/nixos-config/tree/packages/nixpkgs-bot) - A Matrix bot to track when a Nixpkgs pull request reaches a relevant branch. -->
 * [nixpkgs PR tracker](https://nixpk.gs/pr-tracker.html) - A tracker for whether a PR has made it into a channel yet.
+   * [nixpkgs PR tracker violentmonkey script](https://gist.github.com/mrVanDalo/fe1578e21be306d4f39b45f1cfa22750) - A violentmonkey script which injects a button on nixpkgs pull requests to quickjump to [nixpkgs PR tracker](https://nixpk.gs/pr-tracker.html) with the current pull request selected.
 
 ## Deployment Tools
 
